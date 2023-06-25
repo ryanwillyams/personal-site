@@ -9,7 +9,7 @@ const validateText = (text) => {
   return re.test(text) || text.length === 0;
 };
 
-const messages = [
+const messages = ['Hello', 'this is', 'the way to', 'contact me',
   'ryanwillyamsdo',
 ];
 

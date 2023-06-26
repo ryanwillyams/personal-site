@@ -24,8 +24,8 @@
 		}
 
 	body {
-		background: _palette(bg-alt);
-
+		background: #e3d2bbfa;
+			// #dfd2d2
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.
 			&.is-loading {

@@ -17,7 +17,7 @@ const work = [
     position: 'Software Engineer Intern',
     url: 'https://www.firstam.com/',
     startDate: '2022-03-03',
-    endDate: '2022-09-02',
+    endDate: '2022-11-02',
     summary: 'During my internship at First American Title, I applied my knowledge of C# and React to develop a full-stack emailing program. I leveraged AWS cloud computing services to deploy and manage the application, ensuring scalability and reliability. Additionally, I utilized Microsoft SQL Server for efficient data storage and retrieval. Collaborating with the development team, I actively participated in agile processes, conducted code reviews, and contributed to the overall project success. This internship provided me with valuable experience in cloud computing, database management, and collaborative software development, enhancing my proficiency in C#, React, AWS, and SQL Server.',
     highlights: [
       'Collaborated with stakeholders to identify vulnerabilities and analyze their impact.',

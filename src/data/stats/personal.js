@@ -34,7 +34,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'San Bernardino, CA',
+    value: 'Santa Ana, CA',
   },
 ];
 

@@ -17,7 +17,7 @@ const work = [
     position: 'Software Engineer',
     url: 'https://www.mtrubidouxsda.org/',
     startDate: '2023-02-04',
-    endDate: 'Present',
+    endDate: 'PRESENT',
     summary: 'At Mt. Rubidoux SDA Church, I created user-friendly applications using .NET Core and Python. Notably, I developed a membership app to improve communication and an innovative budget app for enhanced financial planning. These apps optimized cross-functional tasks, boosting efficiency and decision-making within the church community.',
     highlights: [
       'Created a user-friendly membership app using .NET Core for easy communication and community engagement at Mt. Rubidoux SDA Church.',

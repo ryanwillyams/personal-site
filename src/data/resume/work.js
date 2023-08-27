@@ -15,7 +15,7 @@ const work = [
   {
     name: 'Mt. Rubidoux',
     position: 'Software Engineer',
-    url: 'https://www.firstam.com/',
+    url: 'https://www.mtrubidouxsda.org/',
     startDate: '2023-02-04',
     endDate: 'Present',
     summary: 'At Mt. Rubidoux SDA Church, I created user-friendly applications using .NET Core and Python. Notably, I developed a membership app to improve communication and an innovative budget app for enhanced financial planning. These apps optimized cross-functional tasks, boosting efficiency and decision-making within the church community.',
@@ -31,7 +31,7 @@ const work = [
     position: 'Software Engineer Intern',
     url: 'https://www.firstam.com/',
     startDate: '2022-03-03',
-    endDate: '2022-11-02',
+    endDate: '2022-09-02',
     summary: 'During my internship at First American Title, I applied my knowledge of C# and React to develop a full-stack emailing program. I leveraged AWS cloud computing services to deploy and manage the application, ensuring scalability and reliability. Additionally, I utilized Microsoft SQL Server for efficient data storage and retrieval. Collaborating with the development team, I actively participated in agile processes, conducted code reviews, and contributed to the overall project success. This internship provided me with valuable experience in cloud computing, database management, and collaborative software development, enhancing my proficiency in C#, React, AWS, and SQL Server.',
     highlights: [
       'Collaborated with stakeholders to identify vulnerabilities and analyze their impact.',
